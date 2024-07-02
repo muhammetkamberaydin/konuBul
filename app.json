@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "konuBul",
+    "slug": "konuBul",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFD369"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.muhammetkamberaydin.konuBul"
+    },
+    "android": {
+      "versionCode": 2, 
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFD369"
+      },
+      "package": "com.muhammetkamberaydin.konuBul"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "sdkVersion": "49.0.0",
+    
+    "extra": {
+      "eas": {
+        "projectId": "445bba81-32ec-4f2e-b215-5c2580d22e40"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5135696431929942~7631055308",
+    "ios_app_id": "ca-app-pub-5135696431929942~7631055308"
+  },
+  "name": "konuBul"
+}

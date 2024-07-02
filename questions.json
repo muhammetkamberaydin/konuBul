@@ -1,0 +1,2674 @@
+[
+    {
+        "id": 1,
+        "category": "firstDate",
+        "questions": [
+            {
+                "qid": 1,
+                "question": "Hangi semtte yaşamak isterdin, neden?"
+            },
+            {
+                "qid": 2,
+                "question": "Hangi müzik türü seni en çok etkiler?"
+            },
+            {
+                "qid": 3,
+                "question": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "qid": 4,
+                "question": "Hiç gitmek istediğin farklı bir ülke var mı? Neden orası?"
+            },
+            {
+                "qid": 5,
+                "question": "Bir süper güç seçme şansın olsaydı, hangisini seçerdin?"
+            },
+            {
+                "qid": 6,
+                "question": "Favori film karakterin kim ve neden?"
+            },
+            {
+                "qid": 7,
+                "question": "Bir kitap karakteri ile bir gün geçirme şansın olsaydı, kim olurdu?"
+            },
+            {
+                "qid": 8,
+                "question": "En son izlediğin film veya diziyi söyler misin? Nasıl buldun?"
+            },
+            {
+                "qid": 9,
+                "question": "Eğer bir yemek pişirmekte usta olsaydın, ilk pişireceğin yemek nedir?"
+            },
+            {
+                "qid": 10,
+                "question": " 'Hayatımda yaşadığım en komik an' dediğin bir an var mı ?"
+            },
+            {
+                "qid": 11,
+                "question": "Hangi sanat dalı seni en çok etkiliyor? Neden?"
+            },
+            {
+                "qid": 12,
+                "question": "Eğer bir zaman makinesi olsaydı, hangi döneme gitmek isterdin?"
+            },
+            {
+                "qid": 13,
+                "question": "Hayatta gerçekleştirmek istediğin bir hedefin var mı?"
+            },
+            {
+                "qid": 14,
+                "question": "Deniz altına inmek mi yoksa uzaya çıkmak mı ?"
+            },
+            {
+                "qid": 15,
+                "question": "En sevdiğin mevsim nedir? Neden?"
+            },
+            {
+                "qid": 16,
+                "question": "Bir müzik enstrümanı çalabilseydin, hangisini çalmak isterdin?"
+            },
+            {
+                "qid": 17,
+                "question": "Hayalini kurduğun bir tatil var mı?"
+            },
+            {
+                "qid": 18,
+                "question": "Bir süper güç seçme şansın olsa, insanların düşüncelerini okuma yeteneği mi yoksa görünmez olma yeteneği mi olurdu?"
+            },
+            {
+                "qid": 19,
+                "question": "Eğer bir hayvan olabilseydin, hangisi olmak isterdin?"
+            },
+            {
+                "qid": 20,
+                "question": "Hayatındaki en büyük korkun nedir?"
+            },
+            {
+                "qid": 21,
+                "question": "Bir gün boyunca her şeyi yapabilme şansın olsa, neleri yapardın?"
+            },
+            {
+                "qid": 22,
+                "question": "Hangi spor dalını daha çok seversin, izlemek mi yoksa oynamak mı?"
+            },
+            {
+                "qid": 23,
+                "question": "Hayalinizdeki iş nedir? Neden?"
+            },
+            {
+                "qid": 24,
+                "question": "Eğer bir kitap karakteri olabilseydin, kim olmak isterdin? Neden?"
+            },
+            {
+                "qid": 25,
+                "question": "Bir gün boyunca bir ünlü ile değiş tokuş yapma şansın olsa, kimle değiş tokuş yapardın?"
+            },
+            {
+                "qid": 26,
+                "question": "Bir yetenek kazanma şansın olsa, hangisini isterdin?"
+            },
+            {
+                "qid": 27,
+                "question": "En sevdiğin yabancı film hangisi?"
+            },
+            {
+                "qid": 28,
+                "question": "Hayatta gerçekleşebilecek en büyük macera nedir sence?"
+            },
+            {
+                "qid": 29,
+                "question": "Eğer bir gün boyunca bir hayvanın yeteneklerini kazanma şansın olsa, hangi hayvanın yeteneklerini isterdin?"
+            },
+            {
+                "qid": 30,
+                "question": "Hangi ünlü tarihî figürle bir akşam yemeği yemek isterdin? Neden?"
+            },
+            {
+                "qid": 31,
+                "question": "Çocukluğunda izlemeyi en sevdiğin çizgi filmler hangileriydi?"
+            },
+            {
+                "qid": 32,
+                "question": "Nasıl bir çocuktun? Çocukken sahip olduğun hangi duyguları kaybettiğini düşünüyorsun?"
+            },
+            {
+                "qid": 33,
+                "question": "Ailede senin tanımın ne? Bilirsin kardeşlerden biri vahşi, biri sakin, biri dağınık olabilir. Sen hangisisin?"
+            },
+            {
+                "qid": 34,
+                "question": "Okuduğun bölüm ya da gittiğin okulla ilgili pişmanlıkların var mı?"
+            },
+            {
+                "qid": 35,
+                "question": "Yetişkin olmanın en büyük zorluğu sence nedir?"
+            },
+            {
+                "qid": 36,
+                "question": "Paranı ya da zamanını harcadığına değen hobin ne?"
+            },
+            {
+                "qid": 37,
+                "question": "Bir gün boyunca bir kahraman olma şansın olsa, hangi tür kahraman olurdun? (örneğin, süper kahraman, fantastik kahraman, bilim kurgu kahramanı"
+            },
+            {
+                "qid": 38,
+                "question": "Bir gün boyunca başka birinin yaşamını deneyimleme şansın olsa, kimin yaşamını seçerdin?"
+            },
+            {
+                "qid": 39,
+                "question": "Paranı ya da zamanını harcadığına değen hobin ne?"
+            },
+            {
+                "qid": 40,
+                "question": "Bir hafta sonu kaç saat uyursun genellikle?"
+            },
+            {
+                "qid": 41,
+                "question": "Eğer bir günü tekrar tekrar yaşama şansın olsa, o gün hangisi olurdu?"
+            },
+            {
+                "qid": 42,
+                "question": "Eğer bir meslek değiştirme şansın olsa, hangi mesleği seçerdin?"
+            },
+            {
+                "qid": 43,
+                "question": "Bir yıl boyunca sadece bir şehirde yaşama şansın olsa, bu şehir hangisi olurdu?"
+            },
+            {
+                "qid": 44,
+                "question": "Hayal ettiğin en mükemmel akşam nedir?"
+            },
+            {
+                "qid": 45,
+                "question": "Bir günlüğüne bir karakterin hayatını yaşama şansın olsa, kimin hayatını seçerdin?"
+            },
+            {
+                "qid": 46,
+                "question": "Bir gün boyunca herkesin senin hakkında bilmesini istediğin bir şey nedir?"
+            },
+            {
+                "qid": 47,
+                "question": "Bir film veya dizide baş karakter olma şansın olsa, hangi türde bir hikaye seçerdin?"
+            },
+            {
+                "qid": 48,
+                "question": "Eğer bir bilim kurgu dünyasına gidip gelebilseydin, hangi dünyayı seçerdin?"
+            },
+            {
+                "qid": 49,
+                "question": "Bir gün boyunca sadece bir yetenek kazanma şansın olsa, bu yetenek ne olurdu?"
+            },
+            {
+                "qid": 50,
+                "question": "Bir kıtaya seyahat etme şansın olsa, hangi kıtayı keşfetmeyi isterdin?"
+            },
+            {
+                "qid": 51,
+                "question": "Hangi türde bir kitap seni en çok etkiler?"
+            },
+            {
+                "qid": 52,
+                "question": "Eğer bir film setinde bir gün geçirme şansın olsa, hangi filmde olmak isterdin?"
+            },
+            {
+                "qid": 53,
+                "question": "Bir gün boyunca sadece bir aktiviteyi yapma şansın olsa, bu aktivite ne olurdu?"
+            },
+            {
+                "qid": 54,
+                "question": "Eğer bir yemek tarifi kitabı yazacak olsan, hangi yemek tariflerini içerirdi?"
+            },
+            {
+                "qid": 55,
+                "question": "Bir gün boyunca sadece bir müzik türü dinleme şansın olsa, hangi müzik türünü seçerdin?"
+            },
+            {
+                "qid": 56,
+                "question": "Bir hayvanın özelliklerini kazanma şansın olsa, hangi hayvanı seçerdin?"
+            },
+            {
+                "qid": 57,
+                "question": "Eğer bir dönem dizisi karakteri olabilseydin, hangi dönemde yaşamak isterdin?"
+            },
+            {
+                "qid": 58,
+                "question": "Hangi sporu daha çok seversin, izlemek mi yoksa oynamak mı?"
+            },
+            {
+                "qid": 59,
+                "question": "Bir gün boyunca bir film karakteriyle takas yapma şansın olsa, kiminle takas yapardın?"
+            },
+            {
+                "qid": 60,
+                "question": "Bir gün boyunca sadece bir renk giyebilme şansın olsa, bu renk ne olurdu?"
+            },
+            {
+                "id": 61,
+                "question": "Senin hakkında tahmin edemeyeceğim bir şey nedir?"
+            },
+            {
+                "id": 62,
+                "question": "Yemediğin bir şey var mı?"
+            },
+            {
+                "id": 63,
+                "question": "Büyürken ne olmak istiyordun?"
+            },
+            {
+                "id": 64,
+                "question": "Ailenden bahseder misin?"
+            },
+            {
+                "id": 65,
+                "question": "Bana arkadaşlarından bahseder misin?"
+            },
+            {
+                "id": 66,
+                "question": "En sevdiğin TV programları neler?"
+            },
+            {
+                "id": 67,
+                "question": "Ne okumayı seversin?"
+            },
+            {
+                "id": 68,
+                "question": "Ölmeden yapılacaklar listende neler var?"
+            },
+            {
+                "id": 69,
+                "question": "Kedi mi, köpek mi?"
+            },
+            {
+                "id": 70,
+                "question": "Hangi takımlısın ? İlgin var mı ?"
+            },
+            {
+                "id": 71,
+                "question": "Hiç garip huyun veya takıntın var mı?"
+            },
+            {
+                "id": 72,
+                "question": "Bir hafta sonun nasıl geçiyor, anlatabilir misin?"
+            },
+            {
+                "id": 73,
+                "question": "Adının anlamı ne ? Adının anlamını taşıdığını düşünüyor musun?"
+            },
+            {
+                "id": 74,
+                "question": "Ölmeden önce mutlaka yapmam lazım dediğin bir şey var mı?"
+            },
+            {
+                "id": 75,
+                "question": "Yarın sana piyango çıksa yapacağın ilk şey ne olur?"
+            },
+            {
+                "id": 76,
+                "question": "Filmleri altyazılı mı izlemeyi tercih edersin dublajlı mı?"
+            },
+            {
+                "id": 77,
+                "question": "Karşı cinste seni cezbeden ilk şey zeka mıdır yoksa dış görünüş mü?"
+            },
+            {
+                "id": 78,
+                "question": "Hayatın boyunca affetmeyeceğin bir davranış var mı?"
+            },
+            {
+                "id": 79,
+                "question": "Burcun ne?"
+            },
+            {
+                "id": 80,
+                "question": "Yalnızlık seni mutlu eder mi?"
+            },
+            {
+                "id": 81,
+                "question": "Uğurlu bir sayın, kıyafetin vs. var mı?"
+            },
+            {
+                "id": 82,
+                "question": "Giyinme tarzında senin seçimin ne? Spor mu klasik mi?"
+            },
+            {
+                "id": 83,
+                "question": "Mutlaka okumalısın dediğin bir kitap var mı?"
+            },
+            {
+                "id": 84,
+                "question": "Kendinde en sevdiğin yönün nedir?"
+            },
+            {
+                "id": 85,
+                "question": "Kendinde nefret ettiğin yönün nedir?"
+            },
+            {
+                "id": 86,
+                "question": "Haftanın en sevdiğin günün hangisi?"
+            },
+            {
+                "id": 87,
+                "question": "Yılın en sevdiğin ayı hangisi?"
+            },
+            {
+                "id": 88,
+                "question": "Vücudunuzun en çok sevdiğiniz bölgesi nedir?"
+            },
+            {
+                "id": 89,
+                "question": "Sonsuza kadar yaşlanmayacak olsan, hangi yaşta kalmayı tercih ederdin?"
+            },
+            {
+                "id": 90,
+                "question": "Bu sene hayatın sona ereceğini bilsen, neyi daha farklı yapardın?"
+            },
+            {
+                "id": 91,
+                "question": "Adınızı değiştirebilecek olsanız, hangi isimle değiştirirdiniz?"
+            },
+            {
+                "id": 92,
+                "question": "Sence kıskançlık sevginin mi yoksa güvensizliğin mi göstergesidir? "
+            },
+            {
+                "id": 93,
+                "question": "Küçük hediyeler seni mutlu eder mi? "
+            },
+            {
+                "id": 94,
+                "question": "Uğurlu sayın ne? "
+            },
+            {
+                "id": 95,
+                "question": "Mantık evliliğine inanır mısın? "
+            },
+            {
+                "id": 96,
+                "question": "En çok hangi grubun konserine gitmek istersin?"
+            },
+            {
+                "id": 97,
+                "question": "Fobin var mı?"
+            },
+            {
+                "id": 98,
+                "question": "Geriye dönüp baktığında pişman olduğun şeyler var mı? "
+            },
+            {
+                "id": 99,
+                "question": "Seçme şansın olsaydı hangi ülkede doğmak isterdin?"
+            },
+            {
+                "id": 100,
+                "question": "Bütün koşullar uygun olsa ve size bir iş kurma fırsatı verilse, nasıl bir şirketin patronu olurdunuz?"
+            },
+            {
+                "id": 101,
+                "question": "Hiç sıkılmadan dinlediğin şarkılar nelerdir?"
+            },
+            {
+                "id": 102,
+                "question": "En çok sevdiğin yiyecek ve içecekler?"
+            },
+            {
+                "id": 103,
+                "question": "Hafızanda iz bırakmış 3 çocukluk hatıranız?"
+            },
+            {
+                "id": 104,
+                "question": "Yeni tanıştığınız birinde sizi en çok etkileyen özelik ne olabilir?"
+            },
+            {
+                "id": 105,
+                "question": "Birine sinirlendiğinizde nasıl tepki verirsiniz?"
+            },
+            {
+                "id": 106,
+                "question": "Motive olmaya ihtiyaç duyduğunuzda, başvurduğunuz ilk yöntemler nelerdir?"
+            },
+            {
+                "id": 107,
+                "question": "Sosyal medyadaki senle gerçek sen arasındaki fark nedir? Sence hangisi daha iyi?"
+            },
+            {
+                "id": 108,
+                "question": "Psikolojiyle ilgilenir misin?"
+            },
+            {
+                "id": 109,
+                "question": "En sevdiğin renk hangisi?"
+            },
+            {
+                "id": 110,
+                "question": "Hayatta örnek aldığın bir kişi var mı?"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "friends",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Ortamdaki en komik anınız nedir?"
+            },
+            {
+                "id": 2,
+                "question": "En son izlediğiniz film veya diziyi paylaşabilir misiniz?"
+            },
+            {
+                "id": 3,
+                "question": "Hayatınızda en çok etkilendiğiniz kitap nedir?"
+            },
+            {
+                "id": 4,
+                "question": "Eğer bir süper güç seçme şansınız olsaydı, ne olurdu?"
+            },
+            {
+                "id": 5,
+                "question": "En sevdiğiniz müzik türü nedir?"
+            },
+            {
+                "id": 6,
+                "question": "Hayalinizdeki tatil destinasyonu neresi?"
+            },
+            {
+                "id": 7,
+                "question": "Eğer bir gün ünlü biri olacak olsaydınız, hangi alanda ünlü olmak isterdiniz?"
+            },
+            {
+                "id": 8,
+                "question": "En son hangi konuda çok şaşırdınız?"
+            },
+            {
+                "id": 9,
+                "question": "Ortamdaki herkesi şaşırtacak bir yeteneğiniz var mı?"
+            },
+            {
+                "id": 10,
+                "question": "Bir zaman makinesi olsaydı, hangi döneme gitmek isterdiniz?"
+            },
+            {
+                "id": 11,
+                "question": "Evcil hayvanınız olsaydı, ne tür bir hayvan olmasını isterdiniz?"
+            },
+            {
+                "id": 12,
+                "question": "En son neden güldünüz?"
+            },
+            {
+                "id": 13,
+                "question": "Hangi sporu seversiniz ve neden?"
+            },
+            {
+                "id": 14,
+                "question": "Hayatınızın en önemli dersi nedir?"
+            },
+            {
+                "id": 15,
+                "question": "Eğer bir günü tekrar yaşama şansınız olsa, o gün hangisi olurdu?"
+            },
+            {
+                "id": 16,
+                "question": "En son hangi şarkıyı dinlediniz?"
+            },
+            {
+                "id": 17,
+                "question": "Bir kahramanlık öykünüz var mı?"
+            },
+            {
+                "id": 18,
+                "question": "Hayatınızda en çok gurur duyduğunuz an nedir?"
+            },
+            {
+                "id": 19,
+                "question": "Eğer bir süper güç seçme şansınız olsaydı, ne olurdu?"
+            },
+            {
+                "id": 20,
+                "question": "Ortamdaki en ilginç hobi nedir?"
+            },
+            {
+                "id": 21,
+                "question": "Hangi ünlüyle tanışma fırsatınız olsa, kim olmasını isterdiniz?"
+            },
+            {
+                "id": 22,
+                "question": "Bir film karakteri olabilirseniz, kim olurdunuz?"
+            },
+            {
+                "id": 23,
+                "question": "En sevdiğiniz yemek nedir?"
+            },
+            {
+                "id": 24,
+                "question": "Eğer bir günü tekrar yaşama şansınız olsa, o gün hangisi olurdu?"
+            },
+            {
+                "id": 25,
+                "question": "Hayalinizdeki iş nedir?"
+            },
+            {
+                "id": 26,
+                "question": "Ortamdaki en unutulmaz anınız nedir?"
+            },
+            {
+                "id": 27,
+                "question": "Eğer bir dilek hakkınız olsa, ne dileği tutardınız?"
+            },
+            {
+                "id": 28,
+                "question": "En sevdiğiniz spor takımı nedir?"
+            },
+            {
+                "id": 29,
+                "question": "Bir gün boyunca bir karakterin yaşamını yaşama şansınız olsa, kim olurdu?"
+            },
+            {
+                "id": 30,
+                "question": "Evcil hayvanınız olsaydı, adını ne koyardınız?"
+            },
+            {
+                "id": 31,
+                "question": "Hayatınızda en çok etkilendiğiniz film veya dizi nedir?"
+            },
+            {
+                "id": 32,
+                "question": "En son ne zaman bir şey öğrendiniz?"
+            },
+            {
+                "id": 33,
+                "question": "Hangi konuda uzmanlaşmak istersiniz?"
+            },
+            {
+                "id": 34,
+                "question": "Eğer bir ünlüyle bir gün geçirme şansınız olsa, kim olurdu?"
+            },
+            {
+                "id": 35,
+                "question": "En son hangi konuda bilgi edindiniz?"
+            },
+            {
+                "id": 36,
+                "question": "Eğer bir kitap yazacak olsaydınız, konusu ne olurdu?"
+            },
+            {
+                "id": 37,
+                "question": "Ortamdaki en ilginç anınız nedir?"
+            },
+            {
+                "id": 38,
+                "question": "En sevdiğiniz mevsim nedir?"
+            },
+            {
+                "id": 39,
+                "question": "Bir yetenek kazanma şansınız olsa, hangi yeteneği seçerdiniz?"
+            },
+            {
+                "id": 40,
+                "question": "Hayatınızda aldığınız en iyi tavsiye nedir?"
+            },
+            {
+                "id": 41,
+                "question": "En son neden gurur duydunuz?"
+            },
+            {
+                "id": 42,
+                "question": "Eğer bir şehirde yaşayacak olsanız, hangi şehir olurdu?"
+            },
+            {
+                "id": 43,
+                "question": "Hangi sporu seversiniz ve neden?"
+            },
+            {
+                "id": 44,
+                "question": "Eğer bir hayvan olacak olsaydınız, hangisi olurdu?"
+            },
+            {
+                "id": 45,
+                "question": "En son hangi konuda bilgi edindiniz?"
+            },
+            {
+                "id": 46,
+                "question": "Bir gün boyunca bir karakterin yaşamını yaşama şansınız olsa, kim olurdu?"
+            },
+            {
+                "id": 47,
+                "question": "En son hangi konuda bilgi edindiniz?"
+            },
+            {
+                "id": 48,
+                "question": "Bir gün boyunca bir karakterin yaşamını yaşama şansınız olsa, kim olurdu?"
+            },
+            {
+                "id": 49,
+                "question": "En sevdiğiniz tatlı nedir?"
+            },
+            {
+                "id": 50,
+                "question": "Eğer bir film yönetmeni olsaydınız, hangi türde film çekerdiniz?"
+            },
+            {
+                "id": 51,
+                "question": "En son nerede seyahat ettiniz ve nasıl bir deneyim yaşadınız?"
+            },
+            {
+                "id": 52,
+                "question": "Ortamdaki herkesin bir süper gücü olsaydı, sizin ki ne olurdu?"
+            },
+            {
+                "id": 53,
+                "question": "Hayalinizdeki ideal hafta sonu nasıl geçer?"
+            },
+            {
+                "id": 54,
+                "question": "Bir film karakteri ile bir gün geçirme şansınız olsa, kim olurdu?"
+            },
+            {
+                "id": 55,
+                "question": "En son aldığınız en ilginç hediye nedir?"
+            },
+            {
+                "id": 56,
+                "question": "Eğer bir enstrüman çalma yeteneğiniz olsaydı, hangi enstrümanı seçerdiniz?"
+            },
+            {
+                "id": 57,
+                "question": "Hayatınızdaki en büyük korku nedir?"
+            },
+            {
+                "id": 58,
+                "question": "Bir gün boyunca bir kitabın içinde yaşama şansınız olsa, hangi kitabın içinde yaşardınız?"
+            },
+            {
+                "id": 59,
+                "question": "En son hangi etkinlikte bulundunuz ve nasıl bir deneyim yaşadınız?"
+            },
+            {
+                "id": 60,
+                "question": "Bir şeyi değiştirme şansınız olsa, dünyada neyi değiştirirdiniz?"
+            },
+            {
+                "id": 61,
+                "question": "Hayalinizdeki ev nasıl bir yerde olurdu?"
+            },
+            {
+                "id": 62,
+                "question": "En sevdiğiniz sanat dalı nedir? (resim, müzik, edebiyat, vs.)"
+            },
+            {
+                "id": 63,
+                "question": "Eğer bir spor arabası sahibi olma şansınız olsa, hangi marka/modeli tercih ederdiniz?"
+            },
+            {
+                "id": 64,
+                "question": "Hangi ülkede yaşamak isterdiniz, neden?"
+            },
+            {
+                "id": 65,
+                "question": "En son hangi konuda kendinizi geliştirmeye çalıştınız?"
+            },
+            {
+                "id": 66,
+                "question": "Bir süper kahraman gücü seçme şansınız olsa, hangisini seçerdiniz?"
+            },
+            {
+                "id": 67,
+                "question": "Bir gün boyunca bir hayvanın vücuduyla yaşama şansınız olsa, hangi hayvanı seçerdiniz?"
+            },
+            {
+                "id": 68,
+                "question": "Hangi müzik enstrümanını çalmayı öğrenmek isterdiniz?"
+            },
+            {
+                "id": 69,
+                "question": "Eğer bir yemek tarifiyle ünlü olsaydınız, hangi yemeği yapardınız?"
+            },
+            {
+                "id": 70,
+                "question": "En son ne zaman birisinin sizi gerçekten etkilediğini hissettiniz?"
+            },
+            {
+                "id": 71,
+                "question": "Eğer bir filmde başrol oynama şansınız olsa, hangi türde bir filmde oynamak isterdiniz?"
+            },
+            {
+                "id": 72,
+                "question": "Ortamdaki herkesin bir süper gücü olsaydı, sizin ki ne olurdu?"
+            },
+            {
+                "id": 73,
+                "question": "Hangi tarihi olaya şahit olmak isterdiniz?"
+            },
+            {
+                "id": 74,
+                "question": "En sevdiğiniz çocukluk oyuncağı nedir?"
+            },
+            {
+                "id": 75,
+                "question": "Bir gün boyunca bir ünlüyle yer değiştirme şansınız olsa, kiminle yer değiştirirdiniz?"
+            },
+            {
+                "id": 76,
+                "question": "Hayatınızda en çok etkilendiğiniz konu nedir?"
+            },
+            {
+                "id": 77,
+                "question": "Eğer bir video oyun karakteri olabilseydiniz, kim olurdunuz?"
+            },
+            {
+                "id": 78,
+                "question": "En son hangi konuda araştırma yaptınız?"
+            },
+            {
+                "id": 79,
+                "question": "Bir gün boyunca bir hayvanın vücuduyla yaşama şansınız olsa, hangi hayvanı seçerdiniz?"
+            },
+            {
+                "id": 80,
+                "question": "En son ne zaman birisi sizi gerçekten etkilediğini hissettiniz?"
+            },
+            {
+                "id": 81,
+                "question": "Eğer bir kitabın içine girebilme yeteneğiniz olsa, hangi kitabın içinde yaşardınız?"
+            },
+            {
+                "id": 82,
+                "question": "Hangi spor dalında olimpiyat şampiyonu olmak isterdiniz?"
+            },
+            {
+                "id": 83,
+                "question": "Hayatınızdaki en zor karar nedir?"
+            },
+            {
+                "id": 84,
+                "question": "En son neden gurur duydunuz?"
+            },
+            {
+                "id": 85,
+                "question": "Eğer bir mucit olsaydınız, hangi icadı yapardınız?"
+            },
+            {
+                "id": 86,
+                "question": "En sevdiğiniz çocukluk anınız nedir?"
+            },
+            {
+                "id": 87,
+                "question": "Eğer bir kıtalarda dolaşma yeteneğiniz olsa, hangi ülkeyi keşfederdiniz?"
+            },
+            {
+                "id": 88,
+                "question": "Bir filmde veya dizide bir karakteri canlandırma şansınız olsa, hangi karakteri seçerdiniz?"
+            },
+            {
+                "id": 89,
+                "question": "Eğer bir hayvan olacak olsaydınız, hangisi olurdu?"
+            },
+            {
+                "id": 90,
+                "question": "Hayalinizdeki kariyer nedir?"
+            },
+            {
+                "id": 91,
+                "question": "En son hangi konuda gülme krizine girdiniz?"
+            },
+            {
+                "id": 92,
+                "question": "Eğer bir gün boyunca bir karakterin yaşamını yaşama şansınız olsa, kim olurdu?"
+            },
+            {
+                "id": 93,
+                "question": "En sevdiğiniz kış aktivitesi nedir?"
+            },
+            {
+                "id": 94,
+                "question": "Bir yıldızın etrafında dönecek olsanız, hangi yıldızı seçerdiniz?"
+            },
+            {
+                "id": 95,
+                "question": "Hayatınızın soundtrack'ini oluşturacak üç şarkı nedir?"
+            },
+            {
+                "id": 96,
+                "question": "Bir zaman makinesi olsaydı, hangi tarihi döneme gitmek isterdiniz?"
+            },
+            {
+                "id": 97,
+                "question": "Eğer bir dizi veya film karakteri olabilseydiniz, kim olurdunuz?"
+            },
+            {
+                "id": 98,
+                "question": "En son hangi konuda yeni bir yetenek kazandınız?"
+            },
+            {
+                "id": 99,
+                "question": "Eğer bir yıl boyunca bir yerde yaşama şansınız olsa, neresi olurdu?"
+            },
+            {
+                "id": 100,
+                "question": "Ortamdaki herkesin bir süper gücü olsaydı, sizin ki ne olurdu?"
+            },
+            {
+                "id": 101,
+                "question": "Eğer bir çizgi film karakteri olacak olsaydınız, kim olurdunuz?"
+            },
+            {
+                "id": 102,
+                "question": "En absürd süper güç ne olabilir?"
+            },
+            {
+                "id": 103,
+                "question": "Eğer bir gün boyunca sesiniz hiç değişmeyecek olsa, hangi şarkıyı söylerdiniz?"
+            },
+            {
+                "id": 104,
+                "question": "En tuhaf alışkanlığınız nedir?"
+            },
+            {
+                "id": 105,
+                "question": "Eğer bir meyve olacak olsaydınız, hangi meyve olurdunuz?"
+            },
+            {
+                "id": 106,
+                "question": "En absürd kahraman ismi ne olabilir?"
+            },
+            {
+                "id": 107,
+                "question": "Eğer bir canlı reklam olacak olsaydınız, hangi ürünü tanıtırdınız?"
+            },
+            {
+                "id": 108,
+                "question": "En saçma dans hareketiniz nedir?"
+            },
+            {
+                "id": 109,
+                "question": "Eğer bir yemek olacak olsaydınız, hangi yemek olurdunuz?"
+            },
+            {
+                "id": 110,
+                "question": "En komik karikatür karakteri kimdir?"
+            },
+            {
+                "id": 111,
+                "question": "Eğer bir şaka kitabı yazacak olsaydınız, kitabınızın adı ne olurdu?"
+            },
+            {
+                "id": 112,
+                "question": "Eğer bir filmde oynayacak olsaydınız, hangi türde bir filmde rol alırdınız? (komedi, korku, aksiyon, vs.)"
+            },
+            {
+                "id": 113,
+                "question": "Eğer bir karikatür karakteri olacak olsaydınız, hangi özellikleriniz olurdu?"
+            },
+            {
+                "id": 114,
+                "question": "En komik takma adınız nedir?"
+            },
+            {
+                "id": 115,
+                "question": "Eğer bir hayvanın vücuduyla bir gün yaşama şansınız olsa, hangi hayvanı seçerdiniz?"
+            },
+            {
+                "id": 116,
+                "question": "En saçma yetenek ne olabilir?"
+            },
+            {
+                "id": 117,
+                "question": "Eğer bir çizgi film karakteri olacak olsaydınız, hangi karakterin düşmanı olurdunuz?"
+            },
+            {
+                "id": 118,
+                "question": "Eğer bir obje olacak olsaydınız, hangi obje olurdunuz?"
+            },
+            {
+                "id": 119,
+                "question": "En saçma hayaliniz nedir?"
+            },
+            {
+                "id": 120,
+                "question": "Eğer bir gün boyunca sürekli bir sesi taklit etme şansınız olsa, hangi sesi taklit ederdiniz?"
+            },
+            {
+                "id": 121,
+                "question": "Eğer bir komik film karakteri olacak olsaydınız, hangi karakter olurdunuz?"
+            },
+            {
+                "id": 122,
+                "question": "En absürd bulduğunuz şaka nedir?"
+            },
+            {
+                "id": 123,
+                "question": "Eğer bir yemek tarifiyle ünlü olsaydınız, hangi yemeği yapardınız?"
+            },
+            {
+                "id": 124,
+                "question": "Eğer bir gün boyunca bir karikatür karakteri olacak olsaydınız, hangi karakter olurdunuz?"
+            },
+            {
+                "id": 125,
+                "question": "En komik karikatür karakteri kimdir?"
+            },
+            {
+                "id": 126,
+                "question": "Eğer bir gün boyunca herkes sizi taklit etse, ne kadar eğlenceli olurdu?"
+            },
+            {
+                "id": 127,
+                "question": "En saçma korkunuz nedir?"
+            },
+            {
+                "id": 128,
+                "question": "Eğer bir şehir olacak olsaydınız, hangi şehir olurdunuz?"
+            },
+            {
+                "id": 129,
+                "question": "Eğer bir kahraman olacak olsaydınız, süper gücünüz ne olurdu?"
+            },
+            {
+                "id": 130,
+                "question": "En komik çocukluk anınız nedir?"
+            },
+            {
+                "id": 131,
+                "question": "Eğer bir gün boyunca bir komedyenin vücuduyla yaşama şansınız olsa, hangi komedyen olurdunuz?"
+            },
+            {
+                "id": 132,
+                "question": "En saçma kendi icadınız nedir?"
+            },
+            {
+                "id": 133,
+                "question": "Eğer bir gün boyunca sürekli bir şarkıyı mırıldanma şansınız olsa, hangi şarkıyı seçerdiniz?"
+            },
+            {
+                "id": 134,
+                "question": "Eğer bir karikatür karakteri olacak olsaydınız, hangi karakterin yanında yaşardınız?"
+            },
+            {
+                "id": 135,
+                "question": "En saçma düşlediğiniz süper güç nedir?"
+            },
+            {
+                "id": 136,
+                "question": "Eğer bir gün boyunca bir hayvanın vücuduyla yaşama şansınız olsa, hangi hayvanı seçerdiniz?"
+            },
+            {
+                "id": 137,
+                "question": "En saçma bulduğunuz şaka nedir?"
+            },
+            {
+                "id": 138,
+                "question": "Eğer bir gün boyunca bir çizgi film karakterinin evinde yaşama şansınız olsa, hangi karakterin evi olurdu?"
+            },
+            {
+                "id": 139,
+                "question": "En komik gördüğünüz film veya dizi nedir?"
+            },
+            {
+                "id": 140,
+                "question": "Eğer bir gün boyunca bir nesne olacak olsaydınız, hangi nesne olurdunuz?"
+            },
+            {
+                "id": 141,
+                "question": "Eğer bir karikatür karakteri olacak olsaydınız, hangi özellikleriniz olurdu?"
+            },
+            {
+                "id": 142,
+                "question": "En saçma kendi icadınız nedir?"
+            },
+            {
+                "id": 143,
+                "question": "Eğer bir gün boyunca herkes sizi taklit etse, ne kadar eğlenceli olurdu?"
+            },
+            {
+                "id": 144,
+                "question": "En komik gördüğünüz film veya dizi nedir?"
+            },
+            {
+                "id": 145,
+                "question": "Eğer bir gün boyunca bir nesne olacak olsaydınız, hangi nesne olurdunuz?"
+            },
+            {
+                "id": 146,
+                "question": "En saçma bulduğunuz şaka nedir?"
+            },
+            {
+                "id": 147,
+                "question": "Eğer bir gün boyunca bir çizgi film karakterinin evinde yaşama şansınız olsa, hangi karakterin evi olurdu?"
+            },
+            {
+                "id": 148,
+                "question": "Eğer bir karikatür karakteri olacak olsaydınız, hangi özellikleriniz olurdu?"
+            },
+            {
+                "id": 149,
+                "question": "En komik takma adınız nedir?"
+            },
+            {
+                "id": 150,
+                "question": "Eğer bir çizgi film karakteri olacak olsaydınız, kim olurdunuz?"
+            },
+            {
+                "id": 151,
+                "question": "Bir arkadaşlarınızla birlikte bir komedi filmi yapacak olsaydınız, filmin adı ne olurdu ve hangi absürd olayları içerirdi?"
+            },
+            {
+                "id": 152,
+                "question": "Bir parti düzenleyecek olsaydınız, teması ne olurdu ve herkesi nasıl giydirmek istersiniz?"
+            },
+            {
+                "id": 153,
+                "question": "Bir çizgi film karakteri olacak olsaydınız, karakterinizin en belirgin özelliği ne olurdu?"
+            },
+            {
+                "id": 154,
+                "question": "Hayali bir restoran açacak olsaydınız, spesiyaliteniz nedir ve restoranınızın adı ne olurdu?"
+            },
+            {
+                "id": 155,
+                "question": "Bir zaman makinesi ile geçmişe gidip sadece bir gün geçirecek olsaydınız, hangi tarihi olaya katılmak isterdiniz?"
+            },
+            {
+                "id": 156,
+                "question": "Bir ses efekti olacak olsaydınız, en komik ses hangisi olurdu ve hangi durumda duyulurdu?"
+            },
+            {
+                "id": 157,
+                "question": "Eğer bir doğaüstü güç seçme şansınız olsa, hangi yetenekle donatılmak isterdiniz?"
+            },
+            {
+                "id": 158,
+                "question": "Bir şirketin CEO'su olacak olsaydınız, şirket politikanız nedir ve ofisteki ilk icraatınız ne olurdu?"
+            },
+            {
+                "id": 159,
+                "question": "Bir hayvanın özelliklerini alacak olsaydınız, hangi hayvan olurdu ve bu özellikleri nasıl kullanırdınız?"
+            },
+            {
+                "id": 160,
+                "question": "Eğer bir bilim kurgu filminin baş karakteri olacak olsaydınız, hangi gezegen veya galaksiye gitmek isterdiniz?"
+            },
+            {
+                "id": 161,
+                "question": "Bir yetenek yarışmasına katılacak olsaydınız, sahneye çıkıp hangi yeteneğinizi sergilerdiniz?"
+            },
+            {
+                "id": 162,
+                "question": "Eğer bir mobil uygulama yaratmak olsaydı, uygulamanızın adı ne olurdu ve ne işe yarardı?"
+            },
+            {
+                "id": 163,
+                "question": "Eğer bir süper kahramanın yan karakteri olacak olsaydınız, hangi özelliğinizle süper kahramana yardımcı olurdunuz?"
+            },
+            {
+                "id": 164,
+                "question": "Bir radyo programı sunacak olsaydınız, programınızın adı ne olurdu ve hangi konuları işlerdiniz?"
+            },
+            {
+                "id": 165,
+                "question": "Eğer bir müzik festivali düzenleyecek olsaydınız, başlığı ne olurdu ve hangi sanatçıları davet ederdiniz?"
+            },
+            {
+                "id": 166,
+                "question": "Bir kırmızı halı etkinliğine katılacak olsaydınız, kıyafetiniz ne renk ve tarzda olurdu?"
+            },
+            {
+                "id": 167,
+                "question": "Bir zaman makinesiyle geleceğe gidip sadece bir gün geçirecek olsaydınız, neleri keşfetmek isterdiniz?"
+            },
+            {
+                "id": 168,
+                "question": "Bir çocuk kitabı yazacak olsaydınız, hikayenizin ana karakteri kim olurdu ve macerası ne olurdu?"
+            },
+            {
+                "id": 169,
+                "question": "Bir süper kahraman kostümü giyecek olsaydınız, kostümünüzün süper gücü ne olurdu ve hangi şehirde kahramanlık yapardınız?"
+            },
+            {
+                "id": 170,
+                "question": "Eğer bir çizgi film karakterinin evinde yaşama şansınız olsa, hangi karakterin evi olurdu ve evde neler bulunurdu?"
+            },
+            {
+                "id": 171,
+                "question": "Bir kara deliğe düşecek olsaydınız, hangi ev eşyalarını yanınıza alırdınız?"
+            },
+            {
+                "id": 172,
+                "question": "Eğer bir emoji olacak olsaydınız, hangi emojiyi temsil eder ve en çok hangi durumda kullanılırdınız?"
+            },
+            {
+                "id": 173,
+                "question": "Bir film karakterinin yerine geçecek olsaydınız, hangi karakter olurdu ve hikayeyi nasıl değiştirirdiniz?"
+            },
+            {
+                "id": 174,
+                "question": "Eğer bir masa oyunu yaratacak olsaydınız, oyunun adı ne olurdu ve kuralları nasıl olurdu?"
+            },
+            {
+                "id": 175,
+                "question": "Bir kartvizit tasarlayacak olsaydınız, üzerinde hangi ilginç unvanı kullanırdınız?"
+            },
+            {
+                "id": 176,
+                "question": "Eğer bir müzik enstrümanı çalma yeteneğiniz olsaydı, hangi enstrümanı çalardınız ve hangi şarkıyı icra ederdiniz?"
+            },
+            {
+                "id": 177,
+                "question": "Bir hikaye kitabı yazacak olsaydınız, kitabınızın konusu ne olurdu ve ana karakter kim olurdu?"
+            },
+            {
+                "id": 178,
+                "question": "Eğer bir ilginç yetenek kazanacak olsaydınız, bu yetenek ne olurdu ve nasıl kullanırdınız?"
+            },
+            {
+                "id": 179,
+                "question": "Bir çocuk parkını tasarlayacak olsaydınız, hangi eğlence unsurları olurdu?"
+            },
+            {
+                "id": 180,
+                "question": "Eğer bir bilim kurgu filmi yaratmak olsaydı, filmin adı ne olurdu ve konusu nasıl olurdu?"
+            },
+            {
+                "id": 181,
+                "question": "Bir parti oyunu icat edecek olsaydınız, oyunun adı ne olurdu ve nasıl oynanırdı?"
+            },
+            {
+                "id": 182,
+                "question": "Eğer bir hayvanın zeka seviyesine sahip olacak olsaydınız, hangi hayvanı seçerdiniz ve neler öğrenirdiniz?"
+            },
+            {
+                "id": 183,
+                "question": "Bir tiyatro oyunu yazacak olsaydınız, oyunun adı ne olurdu ve hangi türde olurdu?"
+            },
+            {
+                "id": 184,
+                "question": "Eğer bir kendi ülkenizi yaratma şansınız olsaydı, ülkenizin adı ne olurdu ve hangi kurallar geçerli olurdu?"
+            },
+            {
+                "id": 185,
+                "question": "Bir fıkra anlatacak olsaydınız, favori fıkrınız nedir?"
+            },
+            {
+                "id": 186,
+                "question": "Eğer bir bilim insanı olacak olsaydınız, hangi alanı keşfetmek istersiniz?"
+            },
+            {
+                "id": 187,
+                "question": "Bir ilginç yetenek kazanacak olsaydınız, bu yetenek ne olurdu ve nasıl kullanırdınız?"
+            },
+            {
+                "id": 188,
+                "question": "Eğer bir fast-food zinciri açacak olsaydınız, özel bir menüde hangi yemeği sunerdiniz?"
+            },
+            {
+                "id": 189,
+                "question": "Bir bilim kurgu filmine dahil olacak olsaydınız, hangi karakteri canlandırırdınız ve hikayeye nasıl etki ederdiniz?"
+            },
+            {
+                "id": 190,
+                "question": "Eğer bir hava durumu raporu sunacak olsaydınız, hangi komik terimleri kullanırdınız?"
+            },
+            {
+                "id": 191,
+                "question": "Eğitim hayatında en ilham verici öğretmenin kimdi ve neden?"
+            },
+            {
+                "id": 192,
+                "question": "Bir öğrenci etkinliğinde yaşadığın en unutulmaz anı paylaşır mısın?"
+            },
+            {
+                "id": 193,
+                "question": "Eğitim hayatındaki en ilginç ders konusu nedir?"
+            },
+            {
+                "id": 194,
+                "question": "Bir öğrenci projesinde yaşadığın en yaratıcı başarı anını anlatır mısın?"
+            },
+            {
+                "id": 195,
+                "question": "Okul günlerindeki favori dersin ve nedeni nedir?"
+            },
+            {
+                "id": 196,
+                "question": "Eğitim hayatında en komik öğrenci takımını anlatır mısın?"
+            },
+            {
+                "id": 197,
+                "question": "Bir sınav veya ödevde başarıya giden en ilginç stratejin nedir?"
+            },
+            {
+                "id": 198,
+                "question": "Eğitim hayatında bir günü tamamen sen belirleyecek olsan, günün nasıl geçerdi?"
+            },
+            {
+                "id": 199,
+                "question": "Bir öğrenci etkinliğinde yaşadığın en komik anı paylaşır mısın?"
+            },
+            {
+                "id": 200,
+                "question": "Eğitim hayatında bir film karakteri gibi bir gün geçirme şansın olsa, karakterin kim olurdu?"
+            },
+            {
+                "id": 201,
+                "question": "En ilginç ilk buluşma hikayeni paylaşır mısın?"
+            },
+            {
+                "id": 202,
+                "question": "Aşkta en çok değer verdiğin özellik nedir?"
+            },
+            {
+                "id": 203,
+                "question": "İdeal bir romantik tatil nereye gitmek olurdu?"
+            },
+            {
+                "id": 204,
+                "question": "Aşkta en unutulmaz anın neydi?"
+            },
+            {
+                "id": 205,
+                "question": "Bir ilişkide en çok önemsediğin iletişim şekli nedir?"
+            },
+            {
+                "id": 206,
+                "question": "Aşk hayatında komik bir anını paylaşır mısın?"
+            },
+            {
+                "id": 207,
+                "question": "İlk görüşte aşka inanır mısın? Neden ya da neden olmasın?"
+            },
+            {
+                "id": 208,
+                "question": "Bir ilişkide en çok takıntı yaptığın şey nedir?"
+            },
+            {
+                "id": 209,
+                "question": "Aşk hayatında bir kitap karakteri ile tanışabilme şansın olsa, kiminle tanışmak isterdin?"
+            },
+            {
+                "id": 210,
+                "question": "İdeal bir sevgili hediyesi nedir?"
+            },
+            {
+                "id": 211,
+                "question": "Aşkta ilk adımı atan sen misin, yoksa bekleyen taraf mısın?"
+            },
+            {
+                "id": 212,
+                "question": "İlk öpücüğün nasıl oldu? Anlatır mısın?"
+            },
+            {
+                "id": 213,
+                "question": "Bir ilişkide en çok etkilendiğin romantik jest nedir?"
+            },
+            {
+                "id": 214,
+                "question": "Aşk hayatındaki en büyük öğrenmen nedir?"
+            },
+            {
+                "id": 215,
+                "question": "Birlikte olduğun kişiyle ilk tanıştığın anı anlatır mısın?"
+            },
+            {
+                "id": 216,
+                "question": "Aşkta kıskançlık konusunda nasıl bir tavır takınıyorsun?"
+            },
+            {
+                "id": 217,
+                "question": "En romantik şarkı hangisi senin için?"
+            },
+            {
+                "id": 218,
+                "question": "Aşkta mizah önemli midir, neden?"
+            },
+            {
+                "id": 219,
+                "question": "Bir ilişkide hoşlanmadığın bir davranışı nasıl ifade edersin?"
+            },
+            {
+                "id": 220,
+                "question": "İlk randevu konusunda seni heyecanlandıran veya korkutan bir anı var mı?"
+            },
+            {
+                "id": 221,
+                "question": "Bir ilişkide güven önemli midir, neden?"
+            },
+            {
+                "id": 222,
+                "question": "Aşk hayatında en çok hangi film sahneleri sizi etkiler?"
+            },
+            {
+                "id": 223,
+                "question": "Bir ilişkide en çok neyden korkarsın?"
+            },
+            {
+                "id": 224,
+                "question": "Aşkta önemli olan en temel özellik nedir?"
+            },
+            {
+                "id": 225,
+                "question": "İlişkilerde iletişim nasıl sağlanmalı?"
+            },
+            {
+                "id": 226,
+                "question": "Birlikte olduğun kişiyle yaşadığın en romantik tatil anısı nedir?"
+            },
+            {
+                "id": 227,
+                "question": "Aşkta sürprizler seni mutlu eder mi, neden?"
+            },
+            {
+                "id": 228,
+                "question": "Aşk hayatında önemli olan kişisel uzlaşma noktan nedir?"
+            },
+            {
+                "id": 229,
+                "question": "İlk buluşmada en çok dikkat ettiğin şey nedir?"
+            },
+            {
+                "id": 230,
+                "question": "Bir ilişkide geçmişe takılmak yerine geleceğe odaklanmak mı yoksa geçmişten ders çıkarmak mı daha önemlidir?"
+            },
+            {
+                "id": 231,
+                "question": "Aşkta özgürlük ne kadar önemlidir?"
+            },
+            {
+                "id": 232,
+                "question": "Bir ilişkide hangi konuda anlaşmazlık yaşanması seni rahatsız eder?"
+            },
+            {
+                "id": 233,
+                "question": "Aşk hayatında romantik bir anı yaratma konusunda en yaratıcı fikrin nedir?"
+            },
+            {
+                "id": 234,
+                "question": "Bir ilişkide ortak hobiler ne kadar önemlidir?"
+            },
+            {
+                "id": 235,
+                "question": "Aşk hayatında spontane kararlar almak seni heyecanlandırır mı?"
+            },
+            {
+                "id": 236,
+                "question": "Bir ilişkide samimiyet ve açıklık nasıl sağlanmalı?"
+            },
+            {
+                "id": 237,
+                "question": "Aşkta sevilen bir kişiyle geçirilen en romantik gün nasıl olurdu?"
+            },
+            {
+                "id": 238,
+                "question": "İlişkilerde uzun mesafe sorunuyla başa çıkma konusunda bir tavsiyen var mı?"
+            },
+            {
+                "id": 239,
+                "question": "Aşk hayatında bir günü tamamen partnerin belirlese, o gün seninle neler yapmasını isterdin?"
+            },
+            {
+                "id": 240,
+                "question": "Bir ilişkide küçük sürprizler mi yoksa büyük jestler mi daha etkileyicidir?"
+            },
+            {
+                "id": 241,
+                "question": "Aşkta birbirinize karşı dürüst olmak neden bu kadar önemlidir?"
+            },
+            {
+                "id": 242,
+                "question": "Bir ilişkide en çok hangi konuda şaka yapılır?"
+            },
+            {
+                "id": 243,
+                "question": "Aşk hayatında birbirinize özel kod kelimeleriniz var mı?"
+            },
+            {
+                "id": 244,
+                "question": "Bir ilişkide birbirinize verdiğiniz en anlamlı hediye nedir?"
+            },
+            {
+                "id": 245,
+                "question": "Aşk hayatında romantik bir akşam yemeği mi, yoksa çılgın bir gece mi daha çekici gelir?"
+            },
+            {
+                "id": 246,
+                "question": "Bir ilişkide hangi klişe romantik jestleri seversin?"
+            },
+            {
+                "id": 247,
+                "question": "Aşkta birbirinize en çok güvendiğiniz anı hatırlar mısınız?"
+            },
+            {
+                "id": 248,
+                "question": "Bir ilişkide en çok hangi konuda tatlı bir rekabet yaşanır?"
+            },
+            {
+                "id": 249,
+                "question": "Aşk hayatında küçük anlarda yaşanan romantik anılar mı, yoksa büyük sürprizler mi daha değerlidir?"
+            },
+            {
+                "id": 250,
+                "question": "Bir ilişkide partnerinizin sizi anlamasını beklediğiniz en karmaşık durum nedir?"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "longLove",
+        "questions": [
+            {
+                "id": 1,
+                "question": "İlk buluşmamızı hatırlıyor musun? Senin için ne kadar özel bir anıydı?"
+            },
+            {
+                "id": 2,
+                "question": "Birlikte yaşlanmamıza rağmen, benimle ilgili hâlâ öğrenmek istediğin bir şey var mı?"
+            },
+            {
+                "id": 3,
+                "question": "Beraber geçirdiğimiz en unutulmaz tatil anısı hangisiydi?"
+            },
+            {
+                "id": 4,
+                "question": "Birbirimize olan en komik alışkanlıklarımız neler?"
+            },
+            {
+                "id": 5,
+                "question": "Birlikte olduğumuz süre içinde seni en çok ne mutlu etti?"
+            },
+            {
+                "id": 6,
+                "question": "Birlikte yaşamanın en güzel yanı nedir?"
+            },
+            {
+                "id": 7,
+                "question": "İlişkimizdeki en büyük zorluğu birlikte aşmış olmamızdan en çok gurur duyduğun an nedir?"
+            },
+            {
+                "id": 8,
+                "question": "Birbirimize karşı sürpriz yapma konusunda en sevdiğin anı hatırlıyor musun?"
+            },
+            {
+                "id": 9,
+                "question": "Birlikte olduğumuzda seni en çok güldüren şey neydi?"
+            },
+            {
+                "id": 10,
+                "question": "Birlikte izlediğimiz en sevdiğin film hangisiydi ve neden?"
+            },
+            {
+                "id": 11,
+                "question": "Birlikte yapmak istediğin bir seyahat hayalin var mı? Nereye gitmek isterdin?"
+            },
+            {
+                "id": 12,
+                "question": "Birbirimize olan en büyük destekçimiz olduğumuz anı hatırlıyor musun?"
+            },
+            {
+                "id": 13,
+                "question": "Birbirimize hediye alırken en çok neye dikkat edersin?"
+            },
+            {
+                "id": 14,
+                "question": "Birlikte geçirdiğimiz bir gün içinde en çok neyi özlüyorsun?"
+            },
+            {
+                "id": 15,
+                "question": "Birlikte olduğumuz süre içinde en çok değiştiğini düşündüğün şey nedir?"
+            },
+            {
+                "id": 16,
+                "question": "Birbirimize karşı en duygusal anımız nedir?"
+            },
+            {
+                "id": 17,
+                "question": "Birbirimize olan güvenimizi en çok artıran şey neydi?"
+            },
+            {
+                "id": 18,
+                "question": "Birlikte yaptığımız bir plan veya projenin başarılı olduğunu düşündüğün an nedir?"
+            },
+            {
+                "id": 19,
+                "question": "Birlikte yapılan sürprizlerden hangisi seni en çok etkiledi?"
+            },
+            {
+                "id": 20,
+                "question": "Birbirimize açık olmak ve duygularımızı paylaşmak konusunda ne kadar başarılı olduğumuzu düşünüyorsun?"
+            },
+            {
+                "id": 21,
+                "question": "Birlikte olduğumuzda seni en çok rahatlatan şey nedir?"
+            },
+            {
+                "id": 22,
+                "question": "Birbirimize karşı dürüst olmamızın ilişkimizdeki önemi nedir?"
+            },
+            {
+                "id": 23,
+                "question": "Birlikte yaşamanın getirdiği zorluklara rağmen, bu deneyimden en çok ne öğrendik?"
+            },
+            {
+                "id": 24,
+                "question": "Birbirimize karşı en romantik olduğumuz anı hatırlıyor musun?"
+            },
+            {
+                "id": 25,
+                "question": "Birlikte yaşadığımız günlük yaşamın içindeki en sıradışı olay nedir?"
+            },
+            {
+                "id": 26,
+                "question": "Birbirimize olan en büyük hayranlığımızı fark ettiğimiz an nedir?"
+            },
+            {
+                "id": 27,
+                "question": "Birlikte yaşamanın bize kazandırdığı en değerli şey ne?"
+            },
+            {
+                "id": 28,
+                "question": "Birbirimize sürekli yapmaktan hoşlandığımız küçük sürprizler neler?"
+            },
+            {
+                "id": 29,
+                "question": "Birlikte geçirdiğimiz bir tatilin en keyifli anısı nedir?"
+            },
+            {
+                "id": 30,
+                "question": "Birbirimize en çok ne zaman destek olduğumuzu düşünüyorsun?"
+            },
+            {
+                "id": 31,
+                "question": "Birlikte geçirdiğimiz en romantik gün nedir?"
+            },
+            {
+                "id": 32,
+                "question": "Birbirimize olan en büyük hayranlığımızı fark ettiğimiz an nedir?"
+            },
+            {
+                "id": 33,
+                "question": "Birlikte izlediğimiz bir konserin veya etkinliğin en unutulmaz anısı hangisiydi?"
+            },
+            {
+                "id": 34,
+                "question": "Birlikte yapmayı en çok sevdiğimiz aktivite nedir?"
+            },
+            {
+                "id": 35,
+                "question": "Birbirimize karşı sabrımızı en çok zorlayan durum nedir?"
+            },
+            {
+                "id": 36,
+                "question": "Birbirimize karşı sürpriz yapma konusunda en sevdiğin anı hatırlıyor musun?"
+            },
+            {
+                "id": 37,
+                "question": "Birlikte yaptığımız bir kararın bize ne kadar olumlu bir etki yaptığını düşündüğümüz an nedir?"
+            },
+            {
+                "id": 38,
+                "question": "Birbirimize karşı en çok ne zaman şaşırdığımızı hatırlıyor musun?"
+            },
+            {
+                "id": 39,
+                "question": "Birbirimize olan güvenimizi en çok artıran şey neydi?"
+            },
+            {
+                "id": 40,
+                "question": "Birlikte yaşamanın bize kattığı en büyük zorluğu hatırlıyor musun?"
+            },
+            {
+                "id": 41,
+                "question": "Birbirimize olan en büyük destekçimiz olduğumuz anı hatırlıyor musun?"
+            },
+            {
+                "id": 42,
+                "question": "Birbirimize karşı anlayışlı olmanın en çok işe yaradığı durumu hatırlıyor musun?"
+            },
+            {
+                "id": 43,
+                "question": "Birbirimize sürekli yapmaktan hoşlandığımız küçük sürprizler neler?"
+            },
+            {
+                "id": 44,
+                "question": "Birbirimize karşı dürüst olmamızın ilişkimizdeki önemi nedir?"
+            },
+            {
+                "id": 45,
+                "question": "Birbirimize karşı sürpriz yapma konusunda en sevdiğin anı hatırlıyor musun?"
+            },
+            {
+                "id": 46,
+                "question": "Birlikte yaptığımız bir kararın bize ne kadar olumlu bir etki yaptığını düşündüğümüz an nedir?"
+            },
+            {
+                "id": 47,
+                "question": "Birbirimize karşı en çok ne zaman şaşırdığımızı hatırlıyor musun?"
+            },
+            {
+                "id": 48,
+                "question": "Birbirimize olan güvenimizi en çok artıran şey neydi?"
+            },
+            {
+                "id": 49,
+                "question": "Birlikte yaşamanın bize kattığı en büyük zorluğu hatırlıyor musun?"
+            },
+            {
+                "id": 50,
+                "question": "Birbirimize olan en büyük destekçimiz olduğumuz anı hatırlıyor musun?"
+            },
+            {
+                "id": 51,
+                "question": "Eğer birlikte bir zaman makinesiyle geçmişe gidebilseydik, hangi anıyı tekrar yaşamak isterdin?"
+            },
+            {
+                "id": 52,
+                "question": "Birlikte izlediğimiz bir filmde, karakterlerden biri olabilseydin hangisi olurdun?"
+            },
+            {
+                "id": 53,
+                "question": "Bir gün boyunca birbirimizin yaşamını değiştirebilseydik, neleri değiştirirdik?"
+            },
+            {
+                "id": 54,
+                "question": "Birbirimize sürpriz yapmak için kullanabileceğimiz gizli kod kelimelerimiz olsaydı, ilk kod kelimesi ne olurdu?"
+            },
+            {
+                "id": 55,
+                "question": "Birbirimizi bir süper güçle donatabilseydik, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 56,
+                "question": "Birlikte katılabileceğimiz bir kostüm partisine gitsek, hangi temayı seçerdik?"
+            },
+            {
+                "id": 57,
+                "question": "Birbirimize özel bir tatil planlasak, nereye gitmek isterdin?"
+            },
+            {
+                "id": 58,
+                "question": "Eğer bir çizgi roman karakteri olabilseydin, kim olurdun?"
+            },
+            {
+                "id": 59,
+                "question": "Birlikte katılabileceğimiz bir yemek yarışmasında hangi yemekle temsil edilmek isterdin?"
+            },
+            {
+                "id": 60,
+                "question": "Eğer bir gün boyunca hayvanlara dönüşebilseydik, hangi hayvan olurdun?"
+            },
+            {
+                "id": 61,
+                "question": "Birbirimize yalan söylemek zorunda kalsak, bu yalan hangi komik durumla ilgili olurdu?"
+            },
+            {
+                "id": 62,
+                "question": "Birlikte karaoke gecesine gitsek, hangi şarkıyı söylerdik?"
+            },
+            {
+                "id": 63,
+                "question": "Birbirimize birer süper kahraman adı seçsek, adların ne olurdu?"
+            },
+            {
+                "id": 64,
+                "question": "Eğer birbirimize birer emoji seçsek, senin emoji'n hangisi olurdu?"
+            },
+            {
+                "id": 65,
+                "question": "Bir gün boyunca birbirimizin mesleğini değiştirebilseydik, hangi mesleği denemek isterdin?"
+            },
+            {
+                "id": 66,
+                "question": "Birbirimize birer sihirli yetenek verebilseydik, hangi sihirli yeteneği seçerdin?"
+            },
+            {
+                "id": 67,
+                "question": "Birbirimize birer takma ad seçsek, senin takma adın ne olurdu?"
+            },
+            {
+                "id": 68,
+                "question": "Eğer birbirimize birer karikatür karakteri seçsek, sen hangi karakter olurdun?"
+            },
+            {
+                "id": 69,
+                "question": "Birlikte bir bilim kurgu filmi senaryosu yazsak, hikayemiz ne olurdu?"
+            },
+            {
+                "id": 70,
+                "question": "Birbirimize birer süper güç verebilseydik, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 71,
+                "question": "Birlikte bir komedi şovunda başrolü oynayacak olsak, senin karakterin nasıl olurdu?"
+            },
+            {
+                "id": 72,
+                "question": "Eğer birbirimize birer süper kahraman adı seçsek, adların ne olurdu?"
+            },
+            {
+                "id": 73,
+                "question": "Birbirimize birer emoji seçsek, senin emoji'n hangisi olurdu?"
+            },
+            {
+                "id": 74,
+                "question": "Bir gün boyunca birbirimizin mesleğini değiştirebilseydik, hangi mesleği denemek isterdin?"
+            },
+            {
+                "id": 75,
+                "question": "Birbirimize birer sihirli yetenek verebilseydik, hangi sihirli yeteneği seçerdin?"
+            },
+            {
+                "id": 76,
+                "question": "Birbirimize birer takma ad seçsek, senin takma adın ne olurdu?"
+            },
+            {
+                "id": 77,
+                "question": "Eğer birbirimize birer karikatür karakteri seçsek, sen hangi karakter olurdun?"
+            },
+            {
+                "id": 78,
+                "question": "Birlikte bir bilim kurgu filmi senaryosu yazsak, hikayemiz ne olurdu?"
+            },
+            {
+                "id": 79,
+                "question": "Birbirimize birer süper güç verebilseydik, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 80,
+                "question": "Birlikte bir komedi şovunda başrolü oynayacak olsak, senin karakterin nasıl olurdu?"
+            },
+            {
+                "id": 81,
+                "question": "Birbirimize birer süper kahraman adı seçsek, adların ne olurdu?"
+            },
+            {
+                "id": 82,
+                "question": "Birbirimize birer emoji seçsek, senin emoji'n hangisi olurdu?"
+            },
+            {
+                "id": 83,
+                "question": "Bir gün boyunca birbirimizin mesleğini değiştirebilseydik, hangi mesleği denemek isterdin?"
+            },
+            {
+                "id": 84,
+                "question": "Birbirimize birer sihirli yetenek verebilseydik, hangi sihirli yeteneği seçerdin?"
+            },
+            {
+                "id": 85,
+                "question": "Birbirimize birer takma ad seçsek, senin takma adın ne olurdu?"
+            },
+            {
+                "id": 86,
+                "question": "Eğer birbirimize birer karikatür karakteri seçsek, sen hangi karakter olurdun?"
+            },
+            {
+                "id": 87,
+                "question": "Birlikte bir bilim kurgu filmi senaryosu yazsak, hikayemiz ne olurdu?"
+            },
+            {
+                "id": 88,
+                "question": "Birbirimize birer süper güç verebilseydik, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 89,
+                "question": "Birlikte bir komedi şovunda başrolü oynayacak olsak, senin karakterin nasıl olurdu?"
+            },
+            {
+                "id": 90,
+                "question": "Eğer birbirimize birer süper kahraman adı seçsek, adların ne olurdu?"
+            },
+            {
+                "id": 91,
+                "question": "Birbirimize birer emoji seçsek, senin emoji'n hangisi olurdu?"
+            },
+            {
+                "id": 92,
+                "question": "Bir gün boyunca birbirimizin mesleğini değiştirebilseydik, hangi mesleği denemek isterdin?"
+            },
+            {
+                "id": 93,
+                "question": "Birbirimize birer sihirli yetenek verebilseydik, hangi sihirli yeteneği seçerdin?"
+            },
+            {
+                "id": 94,
+                "question": "Birbirimize birer takma ad seçsek, senin takma adın ne olurdu?"
+            },
+            {
+                "id": 95,
+                "question": "Eğer birbirimize birer karikatür karakteri seçsek, sen hangi karakter olurdun?"
+            },
+            {
+                "id": 96,
+                "question": "Birlikte bir bilim kurgu filmi senaryosu yazsak, hikayemiz ne olurdu?"
+            },
+            {
+                "id": 97,
+                "question": "Birbirimize birer süper güç verebilseydik, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 98,
+                "question": "Birlikte bir komedi şovunda başrolü oynayacak olsak, senin karakterin nasıl olurdu?"
+            },
+            {
+                "id": 99,
+                "question": "Eğer birbirimize birer süper kahraman adı seçsek, adları ne olurdu?"
+            },
+            {
+                "id": 100,
+                "question": "Birbirimize birer emoji seçsek, senin emoji'n hangisi olurdu?"
+            },
+            {
+                "id": 101,
+                "question": "Birlikte olduğumuzda en çok neyden keyif alıyorsun?"
+            },
+            {
+                "id": 102,
+                "question": "Eğer birlikte bir şehir kaçamağı yapacak olsak, hangi şehri seçerdin?"
+            },
+            {
+                "id": 103,
+                "question": "Birbirimize sıradışı bir doğum günü hediyesi seçsek, ne alırdın?"
+            },
+            {
+                "id": 104,
+                "question": "Birlikte bir tema partisi düzenlesek, tema ne olurdu?"
+            },
+            {
+                "id": 105,
+                "question": "Birbirimize özel bir yemek tarifi uyarlasak, tarifin ne olurdu?"
+            },
+            {
+                "id": 106,
+                "question": "Birlikte bir konserde sahneye çıksak, hangi enstrümanı çalmak isterdin?"
+            },
+            {
+                "id": 107,
+                "question": "Birbirimize esprili bir lakap taksak, senin lakabın ne olurdu?"
+            },
+            {
+                "id": 108,
+                "question": "Birlikte bir kıtalararası seyahat planlasak, hangi ülkeyi ziyaret etmek isterdin?"
+            },
+            {
+                "id": 109,
+                "question": "Birbirimize birer süper güç verebilsek, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 110,
+                "question": "Eğer bir film setinde başrol oynayacak olsak, senin ideal film türün hangisi olurdu?"
+            },
+            {
+                "id": 111,
+                "question": "Birlikte bir zaman makinesiyle geçmişe gitsek, hangi döneme gitmek isterdin?"
+            },
+            {
+                "id": 112,
+                "question": "Birbirimize karaoke gecesinde şarkı söyleme şansı verilse, hangi şarkıyı seçerdin?"
+            },
+            {
+                "id": 113,
+                "question": "Birbirimize birer takma ad seçsek, senin takma adın ne olurdu?"
+            },
+            {
+                "id": 114,
+                "question": "Eğer birbirimize birer karikatür karakteri seçsek, sen hangi karakter olurdun?"
+            },
+            {
+                "id": 115,
+                "question": "Birbirimize birer emoji seçsek, senin emoji'n hangisi olurdu?"
+            },
+            {
+                "id": 116,
+                "question": "Birlikte bir hafta sonu kaçamağı yapacak olsak, gitmek istediğin yer neresi olurdu?"
+            },
+            {
+                "id": 117,
+                "question": "Birbirimize birer sanat eseri hediye alsak, hangi türde eseri tercih ederdin?"
+            },
+            {
+                "id": 118,
+                "question": "Birlikte bir video oyun turnuvasına katılsak, hangi oyunu seçerdin?"
+            },
+            {
+                "id": 119,
+                "question": "Birlikte bir kahvaltı yerine gitsek, sipariş edeceğin ilk şey ne olurdu?"
+            },
+            {
+                "id": 120,
+                "question": "Birbirimize karşılıklı yetenekler öğretme şansımız olsa, sana hangi yeteneği öğretmek isterdim?"
+            },
+            {
+                "id": 121,
+                "question": "Birlikte bir bilmece çözme yarışması düzenlesek, hangi kategoride yarışmak isterdin?"
+            },
+            {
+                "id": 122,
+                "question": "Birbirimize birer sihirli yetenek versek, senin sihirli yeteneğin ne olurdu?"
+            },
+            {
+                "id": 123,
+                "question": "Birlikte bir korku filmi çeksek, senin karakterin nasıl biri olurdu?"
+            },
+            {
+                "id": 124,
+                "question": "Birbirimize sürpriz yapmak için kullanabileceğimiz gizli kod kelimelerimiz olsaydı, ilk kod kelimesi ne olurdu?"
+            },
+            {
+                "id": 125,
+                "question": "Birlikte bir kitap kulübü kuracak olsak, hangi kitabı seçerdin?"
+            },
+            {
+                "id": 126,
+                "question": "Birbirimize çocukluk anılarımızı anlatma şansı verseler, hangi anını anlatırdın?"
+            },
+            {
+                "id": 127,
+                "question": "Birbirimize eğlenceli bir zeka sorusu sorsak, senin hazır bir cevabın var mı?"
+            },
+            {
+                "id": 128,
+                "question": "Birlikte bir dans yarışmasına katılacak olsak, hangi dansı sergilemek isterdin?"
+            },
+            {
+                "id": 129,
+                "question": "Birbirimize birer müzik enstrümanı öğretme şansımız olsa, hangi enstrümanı öğrenmek isterdin?"
+            },
+            {
+                "id": 130,
+                "question": "Birlikte bir tematik kostüm partisine katılsak, hangi karakteri canlandırmak isterdin?"
+            },
+            {
+                "id": 131,
+                "question": "Birbirimize en sevdiğimiz çocukluk oyunlarından birini oynamak için bir gün ayırsak, hangi oyunu seçerdin?"
+            },
+            {
+                "id": 132,
+                "question": "Birlikte bir kıtasal kahvaltı yapacak olsak, hangi kıtanın kahvaltısını seçerdin?"
+            },
+            {
+                "id": 133,
+                "question": "Birbirimize birer sanat eseri hediye alsak, hangi türde eseri tercih ederdin?"
+            },
+            {
+                "id": 134,
+                "question": "Birlikte bir video oyun turnuvasına katılsak, hangi oyunu seçerdin?"
+            },
+            {
+                "id": 135,
+                "question": "Birlikte bir kahvaltı yerine gitsek, sipariş edeceğin ilk şey ne olurdu?"
+            },
+            {
+                "id": 136,
+                "question": "Birbirimize karşılıklı yetenekler öğretme şansımız olsa, sana hangi yeteneği öğretmek isterdim?"
+            },
+            {
+                "id": 137,
+                "question": "Birlikte bir bilmece çözme yarışması düzenlesek, hangi kategoride yarışmak isterdin?"
+            },
+            {
+                "id": 138,
+                "question": "Birbirimize birer sihirli yetenek versek, senin sihirli yeteneğin ne olurdu?"
+            },
+            {
+                "id": 139,
+                "question": "Birlikte bir korku filmi çeksek, senin karakterin nasıl biri olurdu?"
+            },
+            {
+                "id": 140,
+                "question": "Birbirimize sürpriz yapmak için kullanabileceğimiz gizli kod kelimelerimiz olsaydı, ilk kod kelimesi ne olurdu?"
+            },
+            {
+                "id": 141,
+                "question": "Birlikte bir kitap kulübü kuracak olsak, hangi kitabı seçerdin?"
+            },
+            {
+                "id": 142,
+                "question": "Birbirimize çocukluk anılarımızı anlatma şansı verseler, hangi anını anlatırdın?"
+            },
+            {
+                "id": 143,
+                "question": "Birbirimize eğlenceli bir zeka sorusu sorsak, senin hazır bir cevabın var mı?"
+            },
+            {
+                "id": 144,
+                "question": "Birlikte bir dans yarışmasına katılacak olsak, hangi dansı sergilemek isterdin?"
+            },
+            {
+                "id": 145,
+                "question": "Birbirimize birer müzik enstrümanı öğretme şansımız olsa, hangi enstrümanı öğrenmek isterdin?"
+            },
+            {
+                "id": 146,
+                "question": "Birlikte bir tematik kostüm partisine katılsak, hangi karakteri canlandırmak isterdin?"
+            },
+            {
+                "id": 147,
+                "question": "Birbirimize en sevdiğimiz çocukluk oyunlarından birini oynamak için bir gün ayırsak, hangi oyunu seçerdin?"
+            },
+            {
+                "id": 148,
+                "question": "Birlikte bir kıtasal kahvaltı yapacak olsak, hangi kıtanın kahvaltısını seçerdin?"
+            },
+            {
+                "id": 149,
+                "question": "Birbirimize birer süper güç verebilsek, hangi süper gücü seçerdin?"
+            },
+            {
+                "id": 150,
+                "question": "Eğer bir film setinde başrol oynayacak olsak, senin ideal film türün hangisi olurdu?"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "workFriends",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Eğer bir süper kahraman olabilseydin, ofisteki en büyük sorunu çözmek için hangi süper gücü kullanırdın?"
+            },
+            {
+                "id": 2,
+                "question": "Ekip çalışmasında başarılı olmanın sırrı nedir, sence?"
+            },
+            {
+                "id": 3,
+                "question": "İş yerinde motivasyonunu artırmak için en etkili strateji nedir?"
+            },
+            {
+                "id": 4,
+                "question": "Kendine bir süper güç seçme şansın olsaydı, herkesi ne konuda eğitebilirdin?"
+            },
+            {
+                "id": 5,
+                "question": "Eğer bir gün patron olursan, ofis ortamını nasıl daha etkili ve keyifli hale getirirdin?"
+            },
+            {
+                "id": 6,
+                "question": "Başarıyı sürdürmek için senin uyguladığın günlük rutin nedir?"
+            },
+            {
+                "id": 7,
+                "question": "İş yerindeki en büyük başarını düşündüğünde, hangi özelliklerin sana yardımcı oldu?"
+            },
+            {
+                "id": 8,
+                "question": "Bir proje üzerinde çalışırken sıkıştığında, nasıl ilham buluyorsun?"
+            },
+            {
+                "id": 9,
+                "question": "Ofis arkadaşlarınla en çok ne konuda muhabbet edersin? Neden?"
+            },
+            {
+                "id": 10,
+                "question": "İş hayatındaki en büyük öğrenme deneyimin nedir?"
+            },
+            {
+                "id": 11,
+                "question": "Bir gün iş dünyasında bir değişiklik yapma şansın olsa, neyi değiştirirdin?"
+            },
+            {
+                "id": 12,
+                "question": "Bir projede ekip lideri olma fırsatını yakalasaydın, liderlik tarzın nasıl olurdu?"
+            },
+            {
+                "id": 13,
+                "question": "İş yerindeki herkesin moralini yükseltmek için yapabileceğin bir aktivite ne olabilir?"
+            },
+            {
+                "id": 14,
+                "question": "İş hayatında seni en çok heyecanlandıran an nedir?"
+            },
+            {
+                "id": 15,
+                "question": "Başkalarına yardımcı olmak adına geliştirdiğin en etkili strateji nedir?"
+            },
+            {
+                "id": 16,
+                "question": "Bir iş gezisine gitme şansın olsa, gideceğin yer neresi olurdu? Neden?"
+            },
+            {
+                "id": 17,
+                "question": "İş yerindeki stresle nasıl başa çıkıyorsun?"
+            },
+            {
+                "id": 18,
+                "question": "İş arkadaşlarınla aranda en eğlenceli anı nedir?"
+            },
+            {
+                "id": 19,
+                "question": "İş yerindeki bir sorunu çözmek adına kiminle işbirliği yapmayı tercih edersin?"
+            },
+            {
+                "id": 20,
+                "question": "İş hayatında en çok ilham aldığın lider kimdir? Neden?"
+            },
+            {
+                "id": 21,
+                "question": "Eğer bir projeyi tamamen kendi başına yönetme şansın olsa, hangi proje olurdu?"
+            },
+            {
+                "id": 22,
+                "question": "İş yerindeki başarılarını kutlamak için en sevdiğin yöntem nedir?"
+            },
+            {
+                "id": 23,
+                "question": "İş yerindeki en zorlu kararı nasıl verdin?"
+            },
+            {
+                "id": 24,
+                "question": "Bir iş toplantısında ilginç bir fikir ortaya atma cesaretini nasıl buluyorsun?"
+            },
+            {
+                "id": 25,
+                "question": "İş hayatında önemli bir hedefe ulaşmanı sağlayan stratejin nedir?"
+            },
+            {
+                "id": 26,
+                "question": "İş arkadaşlarınla birlikte yapılan bir etkinlikte en çok neyi seversin?"
+            },
+            {
+                "id": 27,
+                "question": "Bir gün bir kitap yazma şansın olsa, konusu ne olurdu?"
+            },
+            {
+                "id": 28,
+                "question": "İş yerindeki bir değişikliği yönetme sorumluluğunu almak sana nasıl hissettirir?"
+            },
+            {
+                "id": 29,
+                "question": "İş hayatında sık sık kullandığın bir motivasyon sözü var mı? Nedir?"
+            },
+            {
+                "id": 30,
+                "question": "İş arkadaşlarınla birlikte bir eğlence etkinliği düzenleme şansın olsa, ne yapardın?"
+            },
+            {
+                "id": 31,
+                "question": "İş yerindeki takım dinamiklerini geliştirmek adına ne tür etkinlikler yapabiliriz?"
+            },
+            {
+                "id": 32,
+                "question": "İş yerindeki başarısızlıklardan nasıl ders çıkartıyorsun?"
+            },
+            {
+                "id": 33,
+                "question": "İş yerindeki bir projeyi başarıyla tamamlamanın sırları nelerdir?"
+            },
+            {
+                "id": 34,
+                "question": "İş arkadaşlarınla aranda en çok paylaştığın hobin nedir?"
+            },
+            {
+                "id": 35,
+                "question": "İş hayatında karşılaştığın en büyük zorluk nedir?"
+            },
+            {
+                "id": 36,
+                "question": "İş yerindeki bir hedefe ulaşmak için attığın en etkili adım nedir?"
+            },
+            {
+                "id": 37,
+                "question": "İş yerindeki başarılarını sadece kariyerle mi ölçersin, yoksa başka kriterler de var mı?"
+            },
+            {
+                "id": 38,
+                "question": "İş hayatında sürekli gelişmek adına neler yapıyorsun?"
+            },
+            {
+                "id": 39,
+                "question": "İş yerindeki bir konuda fikir ayrılıkları yaşandığında, nasıl bir çözüm yolunu tercih edersin?"
+            },
+            {
+                "id": 40,
+                "question": "İş yerindeki bir projede liderlik yapma şansın olsa, nasıl bir lider olurdun?"
+            },
+            {
+                "id": 41,
+                "question": "İş yerindeki bir hata ile nasıl başa çıkıyorsun?"
+            },
+            {
+                "id": 42,
+                "question": "İş hayatında seni en çok geliştiren deneyim nedir?"
+            },
+            {
+                "id": 43,
+                "question": "Bir iş projesinde ekip arkadaşınla anlaşmazlık yaşadığında, nasıl bir iletişim stratejisi izlersin?"
+            },
+            {
+                "id": 44,
+                "question": "İş yerindeki bir başarı hikayesini paylaşabilir misin?"
+            },
+            {
+                "id": 45,
+                "question": "İş arkadaşlarınla birlikte bir eğitim programı oluşturma fırsatın olsa, konu ne olurdu?"
+            },
+            {
+                "id": 46,
+                "question": "İş hayatında sıkça uyguladığın bir zaman yönetimi stratejisi var mı?"
+            },
+            {
+                "id": 47,
+                "question": "İş yerindeki bir projede yaratıcı düşünceyi nasıl teşvik edersin?"
+            },
+            {
+                "id": 48,
+                "question": "İş arkadaşlarınla aranda en sık kullandığın espri nedir?"
+            },
+            {
+                "id": 49,
+                "question": "İş yerindeki bir hedefe ulaşmak için en çok hangi değerlere güveniyorsun?"
+            },
+            {
+                "id": 50,
+                "question": "İş yerindeki bir değişikliği kabullenme sürecinde nasıl bir liderlik sergilersin?"
+            },
+            {
+                "id": 51,
+                "question": "İş arkadaşlarıyla etkileşim kurmanın en etkili yolu nedir?"
+            },
+            {
+                "id": 52,
+                "question": "İş yerindeki bir krizi yönetme stratejin nedir?"
+            },
+            {
+                "id": 53,
+                "question": "İş hayatında bir rol modelin var mı? Kim ve neden?"
+            },
+            {
+                "id": 54,
+                "question": "İş yerindeki bir başarıyı kutlamak için tercih ettiğin yöntem nedir?"
+            },
+            {
+                "id": 55,
+                "question": "Bir iş projesinde takım arkadaşının motivasyonu düşükse, onu nasıl desteklersin?"
+            },
+            {
+                "id": 56,
+                "question": "İş hayatında öğrendiğin en önemli liderlik dersi nedir?"
+            },
+            {
+                "id": 57,
+                "question": "İş arkadaşlarıyla birlikte sosyal sorumluluk projelerine katılmak sence neden önemlidir?"
+            },
+            {
+                "id": 58,
+                "question": "İş hayatında bir günü nasıl daha verimli geçirirsin?"
+            },
+            {
+                "id": 59,
+                "question": "İş yerindeki bir projede başarılı olmanın anahtarı nedir?"
+            },
+            {
+                "id": 60,
+                "question": "İş arkadaşlarınla aranda güçlü bir iletişim kurmanın sırları nelerdir?"
+            },
+            {
+                "id": 61,
+                "question": "İş yerindeki bir hedefe ulaşmak için sıkça başvurduğun bir strateji var mı?"
+            },
+            {
+                "id": 62,
+                "question": "İş hayatında bir değişiklik yapma şansın olsa, neyi değiştirirdin?"
+            },
+            {
+                "id": 63,
+                "question": "İş yerindeki bir başarıdan dolayı gurur duyduğun anı paylaşabilir misin?"
+            },
+            {
+                "id": 64,
+                "question": "İş arkadaşlarıyla iletişimde zorlandığın bir durumu nasıl çözersin?"
+            },
+            {
+                "id": 65,
+                "question": "İş yerindeki bir konuda farklı bir bakış açısını nasıl değerlendirirsin?"
+            },
+            {
+                "id": 66,
+                "question": "İş hayatında başkalarının seninle aynı fikirde olmadığı bir durumu nasıl yönetirsin?"
+            },
+            {
+                "id": 67,
+                "question": "İş yerindeki bir projede risk almanın senin için anlamı nedir?"
+            },
+            {
+                "id": 68,
+                "question": "İş hayatındaki bir hedefe ulaşmak için hangi yeteneklerini en çok kullanıyorsun?"
+            },
+            {
+                "id": 69,
+                "question": "İş yerindeki bir başarıdan dolayı aldığın en ilginç geri bildirim nedir?"
+            },
+            {
+                "id": 70,
+                "question": "İş hayatında bir günü daha eğlenceli hale getirmek için hangi aktiviteleri tercih edersin?"
+            },
+            {
+                "id": 71,
+                "question": "İş yerindeki bir proje sürecinde en çok keyif aldığın an nedir?"
+            },
+            {
+                "id": 72,
+                "question": "İş arkadaşlarınla birlikte takım ruhunu geliştirmek adına ne tür etkinlikler yapabilirsiniz?"
+            },
+            {
+                "id": 73,
+                "question": "İş hayatında karşılaştığın en büyük engel nasıl üstesinden geldin?"
+            },
+            {
+                "id": 74,
+                "question": "İş yerindeki bir değişiklikle başa çıkma stratejin nedir?"
+            },
+            {
+                "id": 75,
+                "question": "İş hayatında en çok hangi konuda kendini geliştirmek istersin?"
+            },
+            {
+                "id": 76,
+                "question": "İş yerindeki bir problemi çözmek için en sıradışı önerin nedir?"
+            },
+            {
+                "id": 76,
+                "question": "İş yerindeki bir projede ekibinle iletişimini güçlendirmek için ne tür yöntemler kullanırsın?"
+            },
+            {
+                "id": 77,
+                "question": "Ekip içindeki çeşitliliği nasıl kucaklarsın ve bu çeşitliliği güçlü bir noktaya nasıl dönüştürürsün?"
+            },
+            {
+                "id": 78,
+                "question": "İş yerindeki bir hedefe ulaşmak için karşılaştığın en büyük engel neydi? Bu engeli nasıl aştın?"
+            },
+            {
+                "id": 79,
+                "question": "İş hayatında öğrendiğin en değerli liderlik dersi nedir? Bu dersi nasıl öğrendin?"
+            },
+            {
+                "id": 80,
+                "question": "İş yerindeki bir proje üzerinde çalışırken, ekip üyelerinin fikirlerini nasıl bir araya getirir ve değerlendirirsin?"
+            },
+            {
+                "id": 81,
+                "question": "İş yerindeki bir başarıdan sonra ekibi nasıl motive edersin? Teşekkür etmek için kullandığın en etkili yöntem nedir?"
+            },
+            {
+                "id": 82,
+                "question": "İş yerindeki bir değişiklikle nasıl başa çıkarsın? Değişiklikle ilgili ekibe nasıl rehberlik edersin?"
+            },
+            {
+                "id": 83,
+                "question": "İş yerindeki bir problemi çözmek için hangi stratejileri kullanırsın? Örnek verebilir misin?"
+            },
+            {
+                "id": 84,
+                "question": "İş hayatında öne çıkan bir hikayeni paylaşabilir misin? Bu hikayeden çıkardığın önemli dersler nelerdir?"
+            },
+            {
+                "id": 85,
+                "question": "İş yerindeki bir hedefe ulaşmak için planlama yaparken nelere dikkat edersin?"
+            },
+            {
+                "id": 86,
+                "question": "İş yerindeki bir projede liderlik rolünü üstlendiğinde, ekibi bir arada tutmak için nasıl bir strateji izlersin?"
+            },
+            {
+                "id": 87,
+                "question": "İş yerindeki bir hata sonrasında nasıl bir geribildirim kültürü oluşturursun? Hatalardan nasıl ders çıkarırsın?"
+            },
+            {
+                "id": 88,
+                "question": "İş yerindeki bir rekabet ortamını nasıl olumlu bir işbirliği atmosferine dönüştürebiliriz?"
+            },
+            {
+                "id": 89,
+                "question": "İş yerindeki bir projede ekip üyeleri arasındaki uyumsuzlukla nasıl başa çıkarsın? Nasıl bir çözüm bulursun?"
+            },
+            {
+                "id": 90,
+                "question": "İş hayatındaki bir hedefine ulaşmak için kendine koyduğun en etkili strateji nedir?"
+            },
+            {
+                "id": 91,
+                "question": "İş yerindeki bir toplantıda nasıl daha etkili bir katılımcı olabiliriz? Senin favori toplantı stratejin nedir?"
+            },
+            {
+                "id": 92,
+                "question": "İş yerindeki bir değişikliği takımına nasıl duyurursun? Değişiklikle ilgili endişeleri nasıl yönetirsin?"
+            },
+            {
+                "id": 93,
+                "question": "İş hayatındaki bir hedefe ulaşmak için karşılaştığın en büyük risk nedir? Bu riskle başa çıkmak için kullandığın strateji nedir?"
+            },
+            {
+                "id": 94,
+                "question": "İş yerindeki bir projede ekip üyeleri arasındaki iletişimi nasıl güçlendirirsin?"
+            },
+            {
+                "id": 95,
+                "question": "İş hayatında geliştirmek istediğin bir yeteneğin var mı? Bu yetenek üzerinde çalışmak için ne tür adımlar atıyorsun?"
+            },
+            {
+                "id": 96,
+                "question": "İş yerindeki bir hedefe ulaşmak için ekiple nasıl bir strateji belirlersin? Stratejiyi nasıl uygularsın?"
+            },
+            {
+                "id": 97,
+                "question": "İş hayatındaki bir zorluğu aşarken en çok yardım aldığın kaynak nedir?"
+            },
+            {
+                "id": 98,
+                "question": "İş yerindeki bir projede takım motivasyonunu nasıl artırırsın?"
+            },
+            {
+                "id": 99,
+                "question": "İş hayatında en çok takdir ettiğin değer nedir? Bu değeri nasıl iş yerinde yaygınlaştırırsın?"
+            },
+            {
+                "id": 100,
+                "question": "İş yerindeki bir başarıdan sonra ekibinle nasıl bir ödülle kutlarsın? Ödülle ilgili en unutulmaz anın nedir?"
+            },
+            {
+                "id": 100,
+                "question": "Son zamanlarda izlediğin en ilginç iş konulu film veya diziler neler?"
+            },
+            {
+                "id": 101,
+                "question": "Ofiste gerçekleşen en komik anı hatırlıyor musun? Paylaşabilir misin?"
+            },
+            {
+                "id": 102,
+                "question": "İş yerindeki en ilginç takım etkinliği nedir? Nasıl geçti?"
+            },
+            {
+                "id": 103,
+                "question": "İş arkadaşların arasında en ilginç yeteneklere sahip olan kim?"
+            },
+            {
+                "id": 104,
+                "question": "Çalışma masanın en tuhaf süsü nedir?"
+            },
+            {
+                "id": 105,
+                "question": "Ofiste en sevdiğin gelenek nedir? Neden?"
+            },
+            {
+                "id": 106,
+                "question": "Ekip arkadaşlarınla en sevdiğin kahve molası anın nedir?"
+            },
+            {
+                "id": 107,
+                "question": "İş yerindeki en ilginç proje veya görev nedir?"
+            },
+            {
+                "id": 108,
+                "question": "İş arkadaşların arasında paylaşılan en ilginç hobiler neler?"
+            },
+            {
+                "id": 109,
+                "question": "En komik ofis espri veya şakalarından birini paylaşabilir misin?"
+            },
+            {
+                "id": 110,
+                "question": "İş yerindeki en ilginç toplantı anın nedir? Ne oldu?"
+            },
+            {
+                "id": 111,
+                "question": "Ofiste favori çalışma müziğin nedir? İş verimini artırıyor mu?"
+            },
+            {
+                "id": 112,
+                "question": "İş arkadaşlarınla birlikte katıldığın en eğlenceli etkinlik nedir?"
+            },
+            {
+                "id": 113,
+                "question": "İş arkadaşların arasında en sevdiğin takma ad nedir? Nasıl ortaya çıktı?"
+            },
+            {
+                "id": 114,
+                "question": "İş yerindeki en ilginç yemek deneyimin nedir? Ne yedin?"
+            },
+            {
+                "id": 115,
+                "question": "Çalışma saatlerinde dinlediğin en eğlenceli podcast veya müzik türü nedir?"
+            },
+            {
+                "id": 116,
+                "question": "İş arkadaşların arasında en sevdiğin ofis esprilerinden birini paylaşabilir misin?"
+            },
+            {
+                "id": 117,
+                "question": "Ofiste düzenlenen en ilginç yarışma veya etkinlik nedir? Katıldın mı?"
+            },
+            {
+                "id": 118,
+                "question": "İş yerindeki en komik anı hatırlıyor musun? Bizimle paylaşabilir misin?"
+            },
+            {
+                "id": 119,
+                "question": "İş arkadaşların arasında en ilginç seyahat anısı olan kim?"
+            },
+            {
+                "id": 120,
+                "question": "İş yerindeki en garip ofis kurallarından biri nedir? Sana komik gelen kurallar neler?"
+            },
+            {
+                "id": 121,
+                "question": "İş arkadaşlarınla aranızda oluşan en komik yanlış anlamayı hatırlıyor musun? Ne oldu?"
+            },
+            {
+                "id": 122,
+                "question": "Ofiste ortaklaşa yapılan en ilginç sürpriz parti veya etkinlik nedir?"
+            },
+            {
+                "id": 123,
+                "question": "İş yerindeki en ilginç ofis teknolojisi nedir? Nasıl kullanılıyor?"
+            },
+            {
+                "id": 124,
+                "question": "Ofiste herkesin sevdiği bir toplu espri veya şaka var mı?"
+            },
+            {
+                "id": 125,
+                "question": "İş yerindeki en komik e-posta hatasını hatırlıyor musun? Ne oldu?"
+            },
+            {
+                "id": 126,
+                "question": "İş arkadaşlarınla aranızda oluşan en ilginç işbirliği hikayesi nedir?"
+            },
+            {
+                "id": 127,
+                "question": "İş yerindeki en ilginç ofis dekorasyonu nedir? Kimin fikriydi?"
+            },
+            {
+                "id": 128,
+                "question": "İş arkadaşların arasında en sevdiğin motivasyon kaynağı nedir?"
+            },
+            {
+                "id": 129,
+                "question": "Ofiste ortak kullanılan en komik emojiler neler?"
+            },
+            {
+                "id": 130,
+                "question": "İş yerindeki en ilginç ofis oyunu nedir? Nasıl oynanıyor?"
+            },
+            {
+                "id": 131,
+                "question": "İş arkadaşların arasında en ilginç yeteneklere sahip olan kim?"
+            },
+            {
+                "id": 132,
+                "question": "Ofiste düzenlenen en eğlenceli temalı gün nedir? Nasıl geçti?"
+            },
+            {
+                "id": 133,
+                "question": "İş yerindeki en ilginç ofis anketi sonuçlarından birini paylaşabilir misin?"
+            },
+            {
+                "id": 134,
+                "question": "İş arkadaşların arasında paylaşılan en ilginç Spotify çalma listesi nedir?"
+            },
+            {
+                "id": 135,
+                "question": "İş yerindeki en komik takım bina etkinliği nedir? Ne yaptınız?"
+            },
+            {
+                "id": 136,
+                "question": "İş arkadaşlarınla aranızda en ilginç ofis dileği nedir? Neden o dileği seçtiniz?"
+            },
+            {
+                "id": 137,
+                "question": "İş yerindeki en komik anı hatırlıyor musun? Paylaşabilir misin?"
+            },
+            {
+                "id": 138,
+                "question": "İş yerindeki en ilginç ofis sırlarından birini paylaşabilir misin?"
+            },
+            {
+                "id": 139,
+                "question": "İş arkadaşların arasında en sevdiğin ofis esprilerinden birini paylaşabilir misin?"
+            },
+            {
+                "id": 140,
+                "question": "İş yerindeki en ilginç takım binası etkinliği nedir? Nasıl geçti?"
+            },
+            {
+                "id": 141,
+                "question": "İş arkadaşların arasında en komik masa oyunu nedir? Ne kadar süre oynuyorsunuz?"
+            },
+            {
+                "id": 142,
+                "question": "İş yerindeki en ilginç ofis yemekleri nelerdir? Denedin mi?"
+            },
+            {
+                "id": 143,
+                "question": "Ofiste en sevdiğin toplu şaka nedir? Nasıl başladı?"
+            },
+            {
+                "id": 144,
+                "question": "İş arkadaşların arasında en sevdiğin espri anlayışı nedir?"
+            },
+            {
+                "id": 145,
+                "question": "İş yerindeki en komik ödül veya tanıma anısı nedir? Nasıl aldın?"
+            },
+            {
+                "id": 146,
+                "question": "İş arkadaşların arasında en sevdiğin toplu aktivite nedir? Neden bu kadar eğlenceli?"
+            },
+            {
+                "id": 147,
+                "question": "İş yerindeki en ilginç anket sonuçlarından birini paylaşabilir misin?"
+            },
+            {
+                "id": 148,
+                "question": "İş arkadaşların arasında en sevdiğin gizli yetenek nedir? Nasıl keşfettin?"
+            },
+            {
+                "id": 149,
+                "question": "İş yerindeki en ilginç ofis yarışması nedir? Katıldın mı?"
+            },
+            {
+                "id": 150,
+                "question": "İş arkadaşların arasında en sevdiğin ofis esprilerinden birini paylaşabilir misin?"
+            }
+        ]
+    }
+]
